@@ -4,4 +4,6 @@ building a minimal lisp using C by following the book [https://www.buildyourownl
 
 compiled using GCC
 
-`gcc main.c -o nyan-lisp -ledit`
+```
+gcc parsing.c mpc.c -ledit -lm -o parsing
+```
