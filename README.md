@@ -1,6 +1,6 @@
 # nyan-lisp
 
-building a minimal lisp using C by following the book [https://www.buildyourownlisp.com](build your own lisp)
+building a minimal lisp using C by following the book [Build your own lisp](https://www.buildyourownlisp.com)
 
 compiled using GCC
 
